@@ -16,5 +16,6 @@ public class HelloWorld1 {
 		System.out.println("111 local에서 수정6");
 		System.out.println("111 local에서 수정8-서버");
 		System.out.println("111 local에서 수정7");
+		System.out.println("111 local에서 수정8");
 	}
 }
